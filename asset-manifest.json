@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.ee831062.chunk.css",
-    "main.js": "/static/js/main.feac1eda.chunk.js",
-    "main.js.map": "/static/js/main.feac1eda.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f86ef138.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f86ef138.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.ddf28a2c.chunk.js": "/static/js/2.ddf28a2c.chunk.js",
-    "static/js/2.ddf28a2c.chunk.js.map": "/static/js/2.ddf28a2c.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.2815f6878b1a24b5a2a330bc78841061.js": "/precache-manifest.2815f6878b1a24b5a2a330bc78841061.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.ee831062.chunk.css.map": "/static/css/main.ee831062.chunk.css.map",
-    "static/js/2.ddf28a2c.chunk.js.LICENSE.txt": "/static/js/2.ddf28a2c.chunk.js.LICENSE.txt"
+    "main.css": "/blindcode/static/css/main.ee831062.chunk.css",
+    "main.js": "/blindcode/static/js/main.4f57ded0.chunk.js",
+    "main.js.map": "/blindcode/static/js/main.4f57ded0.chunk.js.map",
+    "runtime-main.js": "/blindcode/static/js/runtime-main.01461db4.js",
+    "runtime-main.js.map": "/blindcode/static/js/runtime-main.01461db4.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/blindcode/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.aa084e67.chunk.js": "/blindcode/static/js/2.aa084e67.chunk.js",
+    "static/js/2.aa084e67.chunk.js.map": "/blindcode/static/js/2.aa084e67.chunk.js.map",
+    "index.html": "/blindcode/index.html",
+    "precache-manifest.71e81f1e7563c4f0223f34935ad4a00d.js": "/blindcode/precache-manifest.71e81f1e7563c4f0223f34935ad4a00d.js",
+    "service-worker.js": "/blindcode/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/blindcode/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.ee831062.chunk.css.map": "/blindcode/static/css/main.ee831062.chunk.css.map",
+    "static/js/2.aa084e67.chunk.js.LICENSE.txt": "/blindcode/static/js/2.aa084e67.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f86ef138.js",
+    "static/js/runtime-main.01461db4.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.ddf28a2c.chunk.js",
+    "static/js/2.aa084e67.chunk.js",
     "static/css/main.ee831062.chunk.css",
-    "static/js/main.feac1eda.chunk.js"
+    "static/js/main.4f57ded0.chunk.js"
   ]
 }
