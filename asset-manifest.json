@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/blindcode/static/css/main.ee831062.chunk.css",
-    "main.js": "/blindcode/static/js/main.9a2766df.chunk.js",
-    "main.js.map": "/blindcode/static/js/main.9a2766df.chunk.js.map",
+    "main.js": "/blindcode/static/js/main.f9e73044.chunk.js",
+    "main.js.map": "/blindcode/static/js/main.f9e73044.chunk.js.map",
     "runtime-main.js": "/blindcode/static/js/runtime-main.01461db4.js",
     "runtime-main.js.map": "/blindcode/static/js/runtime-main.01461db4.js.map",
     "static/css/2.af3c1da9.chunk.css": "/blindcode/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.aa084e67.chunk.js": "/blindcode/static/js/2.aa084e67.chunk.js",
-    "static/js/2.aa084e67.chunk.js.map": "/blindcode/static/js/2.aa084e67.chunk.js.map",
+    "static/js/2.e8dce6d0.chunk.js": "/blindcode/static/js/2.e8dce6d0.chunk.js",
+    "static/js/2.e8dce6d0.chunk.js.map": "/blindcode/static/js/2.e8dce6d0.chunk.js.map",
     "index.html": "/blindcode/index.html",
-    "precache-manifest.1d675f246dd228c30884c30f20e7498a.js": "/blindcode/precache-manifest.1d675f246dd228c30884c30f20e7498a.js",
+    "precache-manifest.c72ec203e3a1dd12209b1d2f1bcc1da3.js": "/blindcode/precache-manifest.c72ec203e3a1dd12209b1d2f1bcc1da3.js",
     "service-worker.js": "/blindcode/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/blindcode/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.ee831062.chunk.css.map": "/blindcode/static/css/main.ee831062.chunk.css.map",
-    "static/js/2.aa084e67.chunk.js.LICENSE.txt": "/blindcode/static/js/2.aa084e67.chunk.js.LICENSE.txt"
+    "static/js/2.e8dce6d0.chunk.js.LICENSE.txt": "/blindcode/static/js/2.e8dce6d0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.01461db4.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.aa084e67.chunk.js",
+    "static/js/2.e8dce6d0.chunk.js",
     "static/css/main.ee831062.chunk.css",
-    "static/js/main.9a2766df.chunk.js"
+    "static/js/main.f9e73044.chunk.js"
   ]
 }
