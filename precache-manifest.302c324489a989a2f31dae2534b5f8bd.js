@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a5cf620ef1bbd1ab16dd6e2802cfa34a",
+    "revision": "7ef8e2cf68ee321c6037afea2dbcd451",
     "url": "/blindcode/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/blindcode/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "91616ee9418262ca753e",
+    "revision": "791aa6bd5a22c25ff238",
     "url": "/blindcode/static/css/main.ee831062.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/blindcode/static/js/2.aa084e67.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "91616ee9418262ca753e",
-    "url": "/blindcode/static/js/main.bae889ee.chunk.js"
+    "revision": "791aa6bd5a22c25ff238",
+    "url": "/blindcode/static/js/main.23ae5838.chunk.js"
   },
   {
     "revision": "7a141424deb71b9320fe",
